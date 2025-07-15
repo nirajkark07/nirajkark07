@@ -1,6 +1,6 @@
 ### About Me
 
-
+Hello! My name is Niraj. I am a Master's of Applied Science student studying Aerospace Engineering. I specialize in computer vision and machine learning.
 
 ### Languages
 
@@ -27,9 +27,3 @@
 [![6DoF Organ Tracking](https://img.shields.io/badge/6DoF%20Organ%20Tracking-000?style=flat&logo=mediatemple&logoColor=white)](https://github.com/nirajkark07/6DoF-Organ-Tracking)
 [![Posture Detection](https://img.shields.io/badge/Posture%20Detection-000?style=flat&logo=opencv&logoColor=white)](https://github.com/nirajkark07/posture_detection)
 [![AVRT](https://img.shields.io/badge/AVRT-000?style=flat&logo=unrealengine&logoColor=white)](https://github.com/nirajkark07/AVRT)
-
-
-<a href="https://github.com/nirajkark07/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nirajkark07&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajkark07&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
