@@ -24,7 +24,7 @@
 
 ### My Projects
 
-[![Real-Time 3D Reconstruction](https://img.shields.io/badge/Real--Time%203D%20Reconstruction-0055FF?style=flat&logo=open3d&logoColor=white)](https://github.com/yourusername/3D-Reconstruction-Project)
+[![Real-Time 3D Reconstruction](https://img.shields.io/badge/Real--Time%203D%20Reconstruction-000?style=flat&logo=open3d&logoColor=white)](https://github.com/yourusername/3D-Reconstruction-Project)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
 [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
